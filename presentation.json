@@ -1,0 +1,126 @@
+{
+  "title": "What makes a good friend?",
+  "sentences": [
+    {
+      "speaker": "About Me",
+      "keyWord": "",
+      "definition": "",
+      "english": "Hello, everyone. My name is David. I am from London but now I live in Riyadh. I am a student at King Saud University. My Id Number is 883456. Today I going to talk about what makes a good friend.",
+      "arabic": "مرحباً جميعاً. اسمي ديفيد. أنا من لندن ولكنني الآن أعيش في الرياض. أنا طالب في جامعة الملك سعود. رقم هويتي هو 883456. اليوم سأحدثكم عن ما يجعل الصديق جيداً.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/about_me.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+
+    {
+      "speaker": "honest:",
+      "keyWord": "",
+      "definition": "",
+      "english": "A good friend is someone who is honest. They tell the truth, and they don’t hide things. When a friend is honest, you feel safe with them.",
+      "arabic": "الصديق الجيد هو شخص صادق. يقول الحقيقة، ولا يخفي الأشياء. عندما يكون الصديق صادقًا، تشعر بالأمان معه.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/honest.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "funny:",
+      "keyWord": "",
+      "definition": "",
+      "english": "A good friend is also funny. They make you laugh when you feel sad, and they help you enjoy your time.",
+      "arabic": "الصديق الجيد يكون أيضًا مضحكا. فهو يجعلك تضحك عندما تشعر بالحزن، ويساعدك على الاستمتاع بوقتك.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/funny.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "generous:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Another important thing is being generous. A generous friend shares their time, their help, and sometimes even their things. They don’t think only about themselves.",
+      "arabic": "شيء آخر مهم هو أن تكون كريمًا. الصديق الكريم يشارك وقته، ومساعدته، وأحيانًا حتى ممتلكاته. هم لا يفكرون في أنفسهم فقط",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/generous.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "can be trusted:",
+      "keyWord": "",
+      "definition": "",
+      "english": "A good friend is someone who can be trusted. You can tell them your secrets, and you know they will not tell anyone else. Trust is very important in friendship.",
+      "arabic": "الصديق الجيد هو شخص يمكنك الوثوق به. يمكنك أن تخبره بأسرارك، وتعرف أنه لن يخبر أحدًا آخر. الثقة مهمة جدًا في الصداقة",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/trust.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "gives advice:",
+      "keyWord": "",
+      "definition": "",
+      "english": "A good friend also  gives good advice. When you have a problem, they listen to you and try to help you make the right decision.",
+      "arabic": " الصديق الجيد يعطي أيضًا نصائح جيدة. عندما تواجه مشكلة، يستمع لك ويحاول مساعدتك على اتخاذ القرار الصحيح.",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/advice.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "a good listener:",
+      "keyWord": "",
+      "definition": "",
+      "english": "A good friend is a good listener. They don’t interrupt you. They listen carefully and understand your feelings.",
+      "arabic": "الصديق الجيد هو المستمع الجيد. لا يقاطعك. يستمع بعناية ويفهم مشاعرك",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/good listener.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    
+    {
+      "speaker": "hobbies and interests:",
+      "keyWord": "",
+      "definition": "",
+      "english": "It is also nice when a friend has the same or similar hobbies and interests. You can play together, study together, or enjoy the same activities.",
+      "arabic": "الطلاب والمعلمون",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/similar_hobbies.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    },
+    {
+      "speaker": "intelligent:",
+      "keyWord": "",
+      "definition": "",
+      "english": "Finally, a good friend is intelligent. They think before they act, and they help you learn new things.",
+      "arabic": "أخيرًا، الصديق الجيد ذكي. يفكر قبل أن يتصرف، ويساعدك على تعلم أشياء جديدة",
+      "refer_to": "",
+      "back_to": "",
+      "audio": "assets/audio/intelligent.mp3",
+      "audioQuestion": "",
+      "answer": "",
+      "Image": ""
+    }
+       ]
+}
